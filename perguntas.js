@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Geografia',
     'Qual a capital do Brasil?',
-    'A capital da Brasil é Brasília'
+    'Brasília'
 )
 
 criaCartao(
@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Lingua Inglesa',
     'Como se diz futebol em Inglês?',
-    'Futebol em inglês é Soccer'
+    'Soccer'
 )
